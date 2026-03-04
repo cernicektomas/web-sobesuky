@@ -252,7 +252,7 @@
     <h2 class="section-title">Lokalita <em>Soběsuky</em></h2>
     <div class="lokalita-grid animate-in">
       <div class="map-container">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.271526991389!2d16.9946815124975!3d49.460483971300924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471258e216601ed7%3A0xb395eb59a2e2fca6!2sSob%C4%9Bsuky%2010%2C%20798%2003%20Plumlov!5e0!3m2!1scs!2scz!4v1772625347893!5m2!1scs!2scz" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.5!2d17.0290!3d49.4490!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47124b1c2e7c9c8d%3A0x400af0f661310f0!2sSob%C4%9Bsuky%2C+Plumlov!5e0!3m2!1scs!2scz!4v1" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
       <div>
         <p style="font-size:1rem;color:var(--text-muted);line-height:1.8;margin-bottom:32px;">Soběsuky jsou součástí města Plumlov — přesto mají charakter klidné vesnice na návsi. Poloha na rozhraní Hané a Drahanské vrchoviny nabízí krásnou krajinu s lesem, rybníky a přehradou.</p>
