@@ -151,10 +151,7 @@
         <div class="parcela-divider"></div>
         <ul class="parcela-features">
           <li>Přibližně 1 100 m²</li>
-          <li>Přístup ze silnice II/377</li>
-          <li>Vzrostlá zeleň a zahrada</li>
-          <li>Elektřina připojena</li>
-          <li>Sítě 5 m od parcely</li>
+     
         </ul>
         <a href="#kontakt" class="btn-outline-light">Mám zájem o parcelu A</a>
       </div>
@@ -169,10 +166,7 @@
         <div class="parcela-divider"></div>
         <ul class="parcela-features">
           <li>Přibližně 1 100 m²</li>
-          <li>Kamenný vinný sklep</li>
-          <li>Klenutý sklípek</li>
-          <li>Elektřina připojena</li>
-          <li>Sítě 5 m od parcely</li>
+        
         </ul>
         <a href="#kontakt" class="btn-outline-light">Mám zájem o parcelu B</a>
       </div>
@@ -187,12 +181,8 @@
         <div class="parcela-divider"></div>
         <ul class="parcela-features">
           <li>Kompletní pozemek 2 172 m²</li>
-          <li>Vzrostlá zahrada + zeleň</li>
-          <li>Kamenný vinný sklep</li>
-          <li>Klenutý sklípek</li>
-          <li>Elektřina připojena</li>
-          <li>Všechny sítě v dosahu</li>
-          <li>Úspora oproti dílčím parcelám</li>
+  
+          <li>Zvýhodněná cena oproti dílčím parcelám</li>
         </ul>
         <a href="#kontakt" class="btn-outline-white">Mám zájem o celý pozemek</a>
       </div>
